@@ -8,7 +8,7 @@ on:
 env:
   IMAGE_NAME: rohitsbhasme/storefront
   AWS_REGION: us-east-1
-  EKS_CLUSTER: mycluster
+  EKS_CLUSTER: mycluster3
 
 jobs:
   build-deploy:
