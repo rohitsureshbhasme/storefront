@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  IMAGE_NAME: atuljkamble/storefront
+  IMAGE_NAME: rohitsbhasme/storefront
   AWS_REGION: us-east-1
   EKS_CLUSTER: mycluster
 
